@@ -1,0 +1,4 @@
+name               datatype      
+"PS5"               string          
+ quantity                  number
+in or out of cart       booleans
