@@ -11,7 +11,7 @@ function ifBuyCar(){
 }
 
 
-function toSellCar(budget="$3000", color, brand){
+function toSellCar(color, brand, budget="$3000"){
     console.log(`i have sold a ${budget}, ${color},  ${brand}`)    
 }
 toSellCar("blue", "Toyota")
